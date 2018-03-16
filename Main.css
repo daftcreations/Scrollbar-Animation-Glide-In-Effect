@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #D1EDFF;
+    height: 110%;
+}
+#main{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#onion{
+    position: absolute;
+    top:100px;
+    left: 450px;
+    transition: all .9s ease-in;
+}
+#peppermint{
+    position: absolute;
+    top:170px;
+    left: 320px;
+    transition: all .8s ease-in;
+    transition-delay: .15s;
+}
+#flour{
+    position: absolute;
+    top:170px;
+    left: 480px;
+    transition: all .7s ease-in;
+    transition-delay: .1s;
+}
+#gradient{
+    position: absolute;
+    top:245px;
+    left: 500px;
+    transition: all .7s ease-in;
+    transition-delay: .05s;
+}
+#garlic{
+    position: absolute;
+    top:215px;
+    left: 450px;
+    transition: all .8s ease-in;
+    transition-delay: .1s;
+}
+#pappers{
+    position: absolute;
+    top:295px;
+    left: 370px;
+    transition: all .8s ease-in;
+    transition-delay: .1s;
+}
+#chili{
+    position: absolute;
+    top:295px;
+    left: 300px;
+    transition: all .9s ease-in;
+    transition-delay: .15s;
+}
+#tomato{
+    position: absolute;
+    top:450px;
+    left: 350px;
+    transition: all 1s ease-in;
+    transition-delay: .15s;
+}
+#cheese{
+    position: absolute;
+    top:480px;
+    left: 530px;
+    transition: all .7s ease-in;
+    transition-delay: .15s;
+}
+
+
+
+
+
+
+
+
